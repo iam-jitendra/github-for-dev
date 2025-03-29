@@ -1,0 +1,1 @@
+print("hello brother this is jitendra from this side i want to tell you something about your life")
