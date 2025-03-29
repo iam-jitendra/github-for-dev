@@ -1,0 +1,25 @@
+git init
+git status
+git .
+clear
+git add .
+ls
+git status
+git rm --cached .\testing.py
+git status
+git add .
+git status
+git commit -m "added the last file"
+git commit -m "added the testing file"
+ git config --global user.email "you@example.com"
+git commit -m "added the testing file"
+ git status
+clear
+ ls
+clear
+git remote add origin https://github.com/iam-jitendra/github-for-dev.git
+git remote -v
+git push -u origin master
+clear
+git branch -M main
+git push -u origin main
